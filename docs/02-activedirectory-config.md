@@ -37,7 +37,7 @@ you'll see prefixed on every account: `LAB\jbond`, `LAB\Administrator`, etc.
 ![AD DS and DNS Roles](../screenshots/ad_usersandcomputers.png)
 *Server Manager showing AD DS and DNS roles active — Tools menu open showing Active Directory Users and Computers available*
 
-![lab.local Domain](../screenshots/lab_local.png)
+![lab.local Domain](../screenshots/lab.local.png)
 *Active Directory Users and Computers showing lab.local domain successfully created*
 
 ![NetBIOS Configuration](../screenshots/netbios_domainname.png)
