@@ -87,8 +87,7 @@ setspn -a HTTP/labbackup.lab.local svcbackup
 ### Why Internal Network?
 Both VMs were originally on NAT, meaning they had separate connections to the internet 
 and couldn't see each other. Switching to VirtualBox Internal Network (`labnetwork`) 
-creates a private virtual switch between them, which is completely isolated from the internet, 
-exactly like a real corporate network segment.
+creates a private virtual switch between them, which is completely isolated from the internet.
 
 ### Static IP Assignment
 | Machine | IP Address | Subnet Mask | DNS |
